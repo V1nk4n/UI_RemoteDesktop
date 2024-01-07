@@ -1,0 +1,2 @@
+BUFSIZ = 1024 * 4
+BACKGROUND = "#bbd4ce"
